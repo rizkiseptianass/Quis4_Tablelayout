@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Quis4_Tablelayout</string>
+    <string name="satu">Satu</string>
+    <string name="empat">Satu</string>
+    <string name="tiga">tiga</string>
+    <string name="dua">dua</string>
+    <string name="lima">Satu</string>
+    <string name="ini_adalah_judul">Ini Adalah Judul</string>
+</resources>
